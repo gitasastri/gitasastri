@@ -25,11 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitasastri&show_icons=true&locale=en" alt="gitasastri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitasastri&" alt="gitasastri" /></p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
